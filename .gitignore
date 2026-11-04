@@ -1,0 +1,33 @@
+# ==============================================================
+# RESPLICON // MULTI-AGENT CYBERSECURITY OSINT MATRIX - GITIGNORE
+# ==============================================================
+
+# Sensitive Operator Hardware Profile (Protects Personal IP, City, ISP, Device ID)
+config/resplicon_device.json
+
+# Local Target Dossiers & Recon Artifacts
+reports/*
+!reports/.gitkeep
+
+# Temporary / Scratch Files
+stdout.txt
+test*.cs
+setup_git.ps1
+MinGit/
+*.tmp
+*.log
+
+# Debug & IDE Metadata
+*.pdb
+.vs/
+.vscode/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# OS Generated
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/

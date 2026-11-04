@@ -1,0 +1,21 @@
+{
+  "DeviceId": "RSP-DEMO-PROFILE-0000",
+  "MachineName": "OPERATOR-STATION",
+  "OperatingSystem": "Windows 10/11 x64",
+  "CoreCount": 8,
+  "FirstRegisteredUtc": "2026-01-01 00:00:00 UTC",
+  "LastSessionUtc": "2026-01-01 00:00:00 UTC",
+  "TotalLaunches": 0,
+  "TotalMissions": 0,
+  "TotalQueries": 0,
+  "ClearanceLevel": "STANDARD // TACTICAL OPERATOR",
+  "SecretUnlocked": false,
+  "AppliedCodeHash": "",
+  "SplokensRemaining": 25000,
+  "SplokensConsumed": 0,
+  "OperatorCountry": "Global",
+  "OperatorCountryCode": "GL",
+  "OperatorCity": "Secure Node",
+  "OperatorIsp": "Encrypted Backbone",
+  "OperatorPublicIp": "127.0.0.1"
+}

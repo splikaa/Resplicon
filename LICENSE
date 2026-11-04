@@ -1,0 +1,39 @@
+MIT LICENSE WITH CYBERSECURITY ETHICS & EDUCATIONAL USE CLAUSE
+
+Copyright (c) 2026 Resplicon Contributors & Authors. All Rights Reserved.
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+1. ATTRIBUTION AND EFFORT PRESERVATION:
+   The original author and copyright notice, along with this permission notice
+   and the Resplicon Citadel / ASCII telemetry headers, MUST be retained in
+   all copies, substantial portions, forks, or derivative works of the Software.
+   No party may strip, obfuscate, or misrepresent the original creator's
+   efforts, architecture, or credits.
+
+2. STRICT EDUCATIONAL & DEFENSIVE RESEARCH PURPOSES ONLY:
+   This Software is engineered strictly for:
+   - Educational purposes, academic research, and computer science training.
+   - Authorized defensive security audits, threat hunting, and vulnerability verification.
+   - Open-Source Intelligence (OSINT) gathering on publicly accessible, non-confidential data.
+   - Personal privacy auditing and OPSEC awareness defense.
+
+3. PROHIBITION OF MALICIOUS & UNLAWFUL USE:
+   Under no circumstances shall this Software be used for:
+   - Malicious surveillance, stalking, doxxing, or harassment.
+   - Unauthorized penetration testing, denial of service (DoS), or intrusion into systems without explicit prior written authorization from the system owner.
+   - Harvesting, exploiting, or weaponizing personal identifiable information (PII) in violation of domestic or international cybersecurity laws (e.g., Computer Fraud and Abuse Act (CFAA), GDPR, or local Cybercrime legislation).
+
+4. DISCLAIMER OF LIABILITY:
+   THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+   IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+   FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+   AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+   LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+   OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+   SOFTWARE.
